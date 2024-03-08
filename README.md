@@ -538,3 +538,4 @@ There are currently two known Megatron optimizations that break reproducibility 
 2. Flash attention is nondeterministic. If reproducibility is required do not use `--use-flash-attn`.
 
 These sources of nondeterminism are under active investigation. If you observe nondeterminism in Megatron training under other circumstances please open an issue.
+# Megatron-LM
