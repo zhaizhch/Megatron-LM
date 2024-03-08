@@ -540,3 +540,4 @@ There are currently two known Megatron optimizations that break reproducibility 
 These sources of nondeterminism are under active investigation. If you observe nondeterminism in Megatron training under other circumstances please open an issue.
 # Megatron-LM
 # Megatron-LM
+# Megatron-LM
